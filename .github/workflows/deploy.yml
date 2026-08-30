@@ -36,7 +36,7 @@ jobs:
           # Vite base must match where GitHub Pages will serve the app.
           # This repo is served from its root, so the app lives at
           # /javapath-react/ (https://abhinavmaurya12.github.io/javapath-react/)
-          VITE_BASE: /javapath-react/
+          VITE_BASE: /ravi_div/
 
       # SPA fallback: GitHub Pages has no client-side routing, so /java,
       # /dsa, /practice etc. 404. Copy index.html -> 404.html so any
